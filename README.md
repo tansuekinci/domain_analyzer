@@ -39,7 +39,7 @@ This script is written in **Python 3** and is cross-platform.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/tansuekinci/domain_analyzer/domain-analyzer.git]
+    git clone https://github.com/tansuekinci/domain_analyzer/domain-analyzer.git
     cd domain-analyzer
     ```
 
